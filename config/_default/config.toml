@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = 'http://ultra-cycling.de/'
+baseURL = 'https://ultra-cycling.de/'
 languageCode = 'de-de'
 title = 'ultra-cycling.de'
 theme = "techfeed-hugo"

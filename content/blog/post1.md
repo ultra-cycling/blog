@@ -1,7 +1,7 @@
 ---
 title: "My journey into long distance cycling"
 date: 2022-04-26T11:06:48+06:00
-image: "images/journey-title.jpg"
+image: "/images/journey-title.jpg"
 featured: true
 categories: ["Cycling", "Brevet"]
 draft: false
@@ -13,15 +13,15 @@ Several years went by and the next long trip was to a cabin in the mountains tha
 
 What followed were quite a few cycling tours along the usual rivers like Danube or Inn. Nothing spectacular. Until my friend finished High School and we decided to cross the Alps together. Needless to mention that we wanted to do this on a bike. On the first day of the trip, we almost cracked the 200km. We had really heavy bikes back then and a tent and cooking equipment with us. So this was quite something.
 
-![On our way up to Flüelapass — the first pass to take on our 2001 tour across the Alps](/images/post01/journey-01.jpg)
+![On our way up to Flüelapass — the first pass to take on our 2001 tour across the Alps](/images/post01/journey-01.jpg "On our way up to Flüelapass — the first pass to take on our 2001 tour across the Alps")
 
 Another three years passed until in 2004 we went on another trip across the Alps — this time it was across the Alps and back. On the very last day we finally managed to do more than 200km.
 
-![Climbing up Hahntennjoch — on our tour across the Alps in 2004](/images/post01/journey-02.jpg)
+![Climbing up Hahntennjoch — on our tour across the Alps in 2004](/images/post01/journey-02.jpg "Climbing up Hahntennjoch — on our tour across the Alps in 2004")
 
 Around 2007 my friend sold me a road bike frame — he bought it on ebay and it was a little to big for him. We built it up from used parts and that’s how I got into road cycling. I still went to university back then, so I had a lot of time for cycling. And in 2008 we went cycling almost every day. That’s when we picked up the idea of doing some long distances again. The next “milestone” were the 300km which we did on my 28th birthday.
 
-![On our way to crack the 300km on a single day — look at our lightweight road bikes (2008)](/images/post01/journey-03.jpg)
+![On our way to crack the 300km on a single day — look at our lightweight road bikes (2008)](/images/post01/journey-03.jpg "On our way to crack the 300km on a single day — look at our lightweight road bikes (2008)")
 
 Another 10 years passed by. My road bike was stolen, I got me a new one in 2016 and in 2018 I remembered an event called “Paris-Brest-Paris” (PBP). It turned out to be the world’s most famous event for long distance cyclists and I started to get obsessed with joining it. Actually I first heard about it from my favorite bike mechanic in Karlsruhe in 2007. He joined PBP twice and I always wanted to participate ever since then. For various reasons I never made it, but in 2018 I was super-motivated. My plan was to ride a really hard 300km race and then ramp up to 1000km which would guarantee me a spot in the 2019’s PBP.
 
