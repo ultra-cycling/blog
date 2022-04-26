@@ -1,0 +1,44 @@
+######################## default configuration ####################
+baseURL = 'http://ultra-cycling.de/'
+languageCode = 'de-de'
+title = 'ultra-cycling.de'
+theme = "techfeed-hugo"
+paginate = 15
+Copyright = "© Michael Lihs 2022"
+canonifyurls = true
+
+############################# Modules ##############################
+[module]
+[module.hugoVersion]
+extended = true
+min = "0.83.1"
+
+############################# Outputs ##############################
+[outputs]
+home = ["HTML", "RSS", "WebAppManifest"]
+
+[caches]
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
+[mediaTypes]
+[mediaTypes."application/manifest+json"]
+suffixes = ["webmanifest"]
+
+[mediaTypes."text/netlify"]
+delimiter = ""
+suffixes = [""]
+
+[outputFormats]
+[outputFormats.WebAppManifest]
+mediaType = "application/manifest+json"
+rel = "manifest"
