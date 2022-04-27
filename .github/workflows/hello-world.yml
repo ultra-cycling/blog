@@ -9,7 +9,7 @@ jobs:
   flash-arduino:
     runs-on: self-hosted
     steps:
-      - name: Build
+      - name: Flash Arduino with Trampoline blinking example
         run: |
           cd /home/pi/workspace/trampoline/examples/avr/arduinoUno/blink
           export TRAMPOLINE_ROOT=~/workspace/trampoline
