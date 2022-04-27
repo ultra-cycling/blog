@@ -6,8 +6,14 @@ on:
       - main  # Set a branch to deploy
 
 jobs:
-  deploy:
+  flash-arduino:
     runs-on: self-hosted
     steps:
       - name: Build
-        run: touch /tmp/from-your-runner
+        run: |
+          cd /home/pi/workspace/trampoline/examples/avr/arduinoUno/blink
+          export TRAMPOLINE_ROOT=~/workspace/trampoline
+          goil --target=avr/arduino/uno --templates=$TRAMPOLINE_ROOT/goil/templates/ blink.oil
+          python3 make.py
+          export AVRDUDE_PORT='/dev/ttyACM0'
+          python3 make.py flash
