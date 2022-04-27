@@ -1,6 +1,4 @@
-name: github pages
-
-
+name: mimipi
 
 on:
   push:
