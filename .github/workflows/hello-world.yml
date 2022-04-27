@@ -1,0 +1,15 @@
+name: github pages
+
+
+
+on:
+  push:
+    branches:
+      - main  # Set a branch to deploy
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+      - name: Build
+        run: touch /tmp/from-your-runner
