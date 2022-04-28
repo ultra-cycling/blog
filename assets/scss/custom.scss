@@ -1,3 +1,21 @@
-figcaption {
+figcaption, .copyright {
   font-size: 0.9rem;text-align: center;color: gray;
 }
+
+a {
+  text-decoration: underline;
+}
+
+table, tr, td, th {
+  border: 1px solid black;
+  padding: 5px;
+  border-collapse: collapse;
+}
+
+table {
+  width: 150%;
+}
+
+th {background: #EEE}
+tr:nth-child(even) {background: #EEE}
+tr:nth-child(odd) {background: #FFF}

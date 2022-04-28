@@ -3,29 +3,26 @@
 # main menu
 
 [[main]]
-name = "home"
-url = ""
+name = "blog"
+url = "blog/"
 weight = 1
+
+#[[main]]
+#name = "home"
+#url = ""
+#weight = 1
+
+[[main]]
+name = "categories"
+url = "categories/"
+weight = 2
 
 [[main]]
 name = "about"
 url = "about/"
-weight = 2
-
-[[main]]
-name = "category"
-url = "categories/"
 weight = 3
 
-# [[main]]
-# name = "contact"
-# url = "contact/"
-# weight = 5
 
-[[main]]
-name = "blog"
-url = "blog/"
-weight = 4
 
 # # dropdown menu
 # [[main]]

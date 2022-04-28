@@ -16,7 +16,7 @@ mainSections = ["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright text
-copyright = "Designed & Developed by [GetHugoThemes](https://gethugothemes.com)"
+copyright = "Hosted on [GitHub](https://github.com/ultra-cycling/blog/) | Template [GetHugoThemes](https://gethugothemes.com)"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
 

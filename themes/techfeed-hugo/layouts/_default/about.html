@@ -2,16 +2,15 @@
 <section class="section">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-8 text-center">
+      <div class="col-lg-8">
         <!-- image path -->
         {{ $imagePath:= .Params.image }}
         <!-- image processing for multiple device -->
         {{ if fileExists (add `assets/` $imagePath) }}
         {{ $image:= resources.Get $imagePath }}
-        <img loading="lazy" class="img-fluid rounded mb-5" decoding="async" src="{{$image.RelPermalink}}"
-          alt="post image">
+        <img loading="lazy" class="img-fluid rounded-circle mb-5" decoding="async" class="img-fluid w-100"
+             src="{{$image.RelPermalink}}" alt="post image" width="{{$image.Width}}" height="{{$image.Height}}">
         {{ end }}
-        <!-- /image cdn -->
         <h2>{{ .Title }}</h2>
         <div class="content">{{ .Content }}</div>
       </div>
@@ -19,3 +18,4 @@
   </div>
 </section>
 {{end}}
+

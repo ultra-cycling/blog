@@ -2,27 +2,6 @@
 
 {{ partial "header" . }}
 
-{{ with site.Params.author_block }}
-<section class="author-block text-center">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-lg-8">
-        <!-- image path -->
-        {{ $imagePath:= .image }}
-        <!-- image processing for multiple device -->
-        {{ if fileExists (add `assets/` $imagePath) }}
-        {{ $image:= resources.Get $imagePath }}
-        <img loading="lazy" class="img-fluid rounded-circle mb-5" decoding="async" class="img-fluid w-100"
-          src="{{$image.RelPermalink}}" alt="post image" width="{{$image.Width}}" height="{{$image.Height}}">
-        {{ end }}
-        {{with .title}}<h3 class="text-uppercase font-secondary mb-4">{{.|markdownify}}</h3>{{end}}
-        {{with .content}}<em class="d-block">{{.|markdownify}}</em>{{end}}
-      </div>
-    </div>
-  </div>
-</section>
-{{end}}
-
 
 <section>
   <div class="container">
