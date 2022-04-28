@@ -21,6 +21,18 @@ img.about {
   margin: 0 auto;
 }
 
+.post-card .card-meta {
+  font-size: 0.9rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.card-meta-tag.small a {
+  font-size: 0.8rem;
+  letter-spacing: 0px;
+  white-space: nowrap;
+}
+
 th {background: #EEE}
 tr:nth-child(even) {background: #EEE}
 tr:nth-child(odd) {background: #FFF}

@@ -3,7 +3,7 @@ title: "My journey into long distance cycling"
 date: 2021-04-09T11:06:48+06:00
 image: "/images/journey-title.jpg"
 featured: true
-categories: ["Cycling", "Brevet"]
+categories: ["Brevet"]
 draft: false
 ---
 

@@ -1,4 +1,4 @@
-<article class="card post-card text-center mb-5">
+<article class="card post-card mb-5">
   <a href="{{.RelPermalink}}">
     {{ with .Params.image }}
     {{ if fileExists (add `assets/` .) }}
@@ -13,11 +13,19 @@
     {{end}}
     {{end}}
   </a>
-
   <div class="card-body">
     <h5 class="mt-3">
       <a class="post-title" href="{{.RelPermalink}}">{{.Title}}</a>
     </h5>
+    <div class="card-meta">
+      <em>{{.PublishDate.Format "Jan 2, 2006"}}</em>
+      <em>by <a href="{{`/about/`}}" class="card-meta-author text-primary">{{site.Params.author}}</a></em>
+    </div>
     <p>{{.Summary}}</p>
+    <div class="card-meta-tag small {{if .Params.featured}}featured{{end}}">
+      {{ range .Params.categories }}
+      <a href="{{`categories` | relURL}}/{{. | urlize | lower}}/">{{ . }}</a>
+      {{ end }}
+    </div>
   </div>
 </article>
