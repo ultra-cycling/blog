@@ -18,7 +18,10 @@ contact_form_action = "#" # contact form works with https://formspree.io
 # copyright text
 copyright = "Hosted on [GitHub](https://github.com/ultra-cycling/blog/) | Template [GetHugoThemes](https://gethugothemes.com)"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
-custom_script= "" 
+custom_script= ""
+
+[params]
+mainSections = ["blog"]
 
 # author
 [author_block]

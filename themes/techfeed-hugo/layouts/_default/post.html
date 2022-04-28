@@ -17,10 +17,15 @@
     <h5 class="mt-3">
       <a class="post-title" href="{{.RelPermalink}}">{{.Title}}</a>
     </h5>
+
+    <!-- only render if we have a date -->
+    {{ if ( ge .PublishDate 0)}}
     <div class="card-meta">
       <em>{{.PublishDate.Format "Jan 2, 2006"}}</em>
       <em>by <a href="{{`/about/`}}" class="card-meta-author text-primary">{{site.Params.author}}</a></em>
     </div>
+    {{end}}
+
     <p>{{.Summary}}</p>
     <div class="card-meta-tag small {{if .Params.featured}}featured{{end}}">
       {{ range .Params.categories }}

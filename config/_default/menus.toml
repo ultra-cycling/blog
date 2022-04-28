@@ -3,8 +3,8 @@
 # main menu
 
 [[main]]
-name = "blog"
-url = "blog/"
+name = "home"
+url = "/"
 weight = 1
 
 #[[main]]
