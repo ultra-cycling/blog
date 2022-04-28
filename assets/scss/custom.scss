@@ -16,6 +16,11 @@ table {
   width: 150%;
 }
 
+img.about {
+  display: block;
+  margin: 0 auto;
+}
+
 th {background: #EEE}
 tr:nth-child(even) {background: #EEE}
 tr:nth-child(odd) {background: #FFF}

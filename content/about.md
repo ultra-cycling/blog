@@ -6,4 +6,6 @@ layout: "about"
 draft: false
 ---
 
-A hobby-cyclist who started into ultra-cycling in 2018. Writing on this blog about his experience with riding long distances.
+## Michael Lihs
+
+Father of 👶 and 👧,  hobby-cyclist who stumbled into ultra-cycling 🚴🏼‍♂️💨. Writing on this blog about his experience with riding long distances.
