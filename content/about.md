@@ -8,4 +8,4 @@ draft: false
 
 ## Michael Lihs
 
-Father of 👶 and 👧,  hobby-cyclist who stumbled into ultra-cycling 🚴🏼‍♂️💨. Writing on this blog about his experience with riding long distances.
+Father of 👶 and 👧,  hobby-cyclist who stumbled into ultra-cycling 🚴🏼‍♂️💨. Writing on this blog about his experience in riding long distances.
