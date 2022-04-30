@@ -1,33 +1,48 @@
 {{ define "main" }}
 
-<section id="post-block" class="post-block section pb-0">
-  <div class="col-xl-100" style="width: 100%">
-    <!-- image path -->
-    {{ $imagePath:= .Params.headerimage }}
+<!-- image path -->
+{{ $imagePath:= .Params.headerimage }}
 
-    <!-- image processing for multiple device -->
+<!-- image processing for multiple device -->
 
-    {{ if fileExists (printf "%s/%s" `assets/` $imagePath) }}
-    {{/* if fileExists (add `assets/` $imagePath)  */}}
-    {{ $image:= resources.Get $imagePath }}
-    {{ $imageFallback:= $image.Resize "1110x" }}
-    {{ $imageXXL:= $image.Resize "2400x webp" }}
-    {{ $imageXL:= $image.Resize "1110x webp" }}
-    {{ $imageLG:= $image.Resize "650x webp" }}
-    {{ $imageMD:= $image.Resize "600x webp" }}
-    {{ $imageSM:= $image.Resize "545x webp" }}
-    <picture>
-      <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-      <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-      <source srcset="{{ $imageLG.RelPermalink }}" media="(max-width: 991px)">
-      <source srcset="{{ $imageXL.RelPermalink }}" media="(max-width: 1110px)">
-      <source srcset="{{ $imageXXL.RelPermalink }}">
-      <img loading="lazy" decoding="async" class="img-fluid w-100" src="{{$imageFallback.RelPermalink}}"
-           alt="post image" width="{{$image.Width}}" height="{{$image.Height}}">
-    </picture>
-    {{ end }}
-    <!-- /image processing for multiple device -->
+{{ if fileExists (printf "%s/%s" `assets/` $imagePath) }}
+{{/* if fileExists (add `assets/` $imagePath)  */}}
+{{ $image:= resources.Get $imagePath }}
+{{ $imageFallback:= $image.Resize "1110x" }}
+{{ $imageXXL:= $image.Resize "2400x webp" }}
+{{ $imageXL:= $image.Resize "1110x webp" }}
+{{ $imageLG:= $image.Resize "650x webp" }}
+{{ $imageMD:= $image.Resize "600x webp" }}
+{{ $imageSM:= $image.Resize "545x webp" }}
+<section class="bgimage" style="background: url('{{ $imageXXL.RelPermalink }}');">
+  <div class="container-fluid" style="position: absolute; bottom: 0">
+    <div class="row no-gutters justify-content-center">
+      <div class="col-lg-8">
+        <div class="text-center mb-5">
+<!--          <div class="card-meta-tag {{if .Params.featured}}featured{{end}}">-->
+<!--            {{ range .Params.categories }}-->
+<!--            <a href="{{`categories` | relURL}}/{{. | urlize | lower}}/">{{ . }}</a>-->
+<!--            {{ end }}-->
+<!--          </div>-->
+<!--          <div style="background-color: rgba(255, 255, 255, 0.5); padding: 30px">-->
+            <h1 class="hero">{{.Title}}</h1>
+<!--            <div class="card-meta">-->
+<!--              <em>{{.PublishDate.Format "Jan 2, 2006"}}</em>-->
+<!--              <em>-->
+<!--                <a href="{{`about/` | relLangURL }}" class="card-meta-author text-primary">-->
+<!--                  {{ site.Params.author }}-->
+<!--                </a>-->
+<!--              </em>-->
+<!--            </div>-->
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
+</section>
+{{ end }}
+
+<section id="post-block" class="post-block section pb-0">
   <div class="container">
     <div class="row no-gutters justify-content-center">
       <div class="col-lg-12">
@@ -35,23 +50,19 @@
       </div>
       <div class="col-lg-9 mt-5">
         <div class="text-center mb-5">
+          <div class="card-meta">
+            <em>{{.PublishDate.Format "Jan 2, 2006"}}</em>
+          </div>
+        </div>
+        <div class="content">{{.Content}}</div>
+        <div class="text-center mb-5">
           <div class="card-meta-tag {{if .Params.featured}}featured{{end}}">
             {{ range .Params.categories }}
             <a href="{{`categories` | relURL}}/{{. | urlize | lower}}/">{{ . }}</a>
             {{ end }}
           </div>
-          <h1 class="mb-3">{{.Title}}</h1>
-          <div class="card-meta">
-            <em>{{.PublishDate.Format "Jan 2, 2006"}}</em>
-            <em>
-              <a href="{{`about/` | relLangURL }}" class="card-meta-author text-primary">
-                {{ site.Params.author }}
-              </a>
-          </div>
-          </em>
         </div>
-        <div class="content">{{.Content}}</div>
-        <div class="single-post-meta">
+        <div class="text-center single-post-meta">
           {{ $url := printf "%s" .Permalink | absLangURL }}
           <ul class="social-links is-circle-filled list-unstyled list-inline mt-5">
             <li class="list-inline-item">

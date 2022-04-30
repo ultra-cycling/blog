@@ -1,8 +1,8 @@
 ---
 title: "My journey into long distance cycling"
 date: 2021-04-09T11:06:48+06:00
-image: "/images/journey-title.jpg"
-headerimage: "/images/journey-title.jpg"
+image: "/images/2021-04-09-journey-long-distance-cycling/preview.png"
+headerimage: "/images/2021-04-09-journey-long-distance-cycling/header.jpg"
 featured: true
 categories: ["Brevet"]
 draft: false

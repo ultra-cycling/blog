@@ -48,3 +48,21 @@ img.about {
 th {background: #EEE}
 tr:nth-child(even) {background: #EEE}
 tr:nth-child(odd) {background: #FFF}
+
+
+.bgimage {
+  width:100vw;
+  height:83vh;
+  background-position: center center !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: hidden;
+}
+
+h1.hero {
+  color: white;
+  padding-bottom: 30px;
+  font-size: 300%;
+  text-shadow:2px 2px #333333;
+}
