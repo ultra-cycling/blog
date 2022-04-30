@@ -26,7 +26,11 @@
     </div>
     {{end}}
 
+    {{ if (not (isset .Params "description")) | or (eq .Params.description "") }}
     <p>{{.Summary}}</p>
+    {{ else }}
+    <p>{{.Params.description}}</p>
+    {{end}}
     <div class="card-meta-tag small {{if .Params.featured}}featured{{end}}">
       {{ range .Params.categories }}
       <a href="{{`categories` | relURL}}/{{. | urlize | lower}}/">{{ . }}</a>

@@ -33,6 +33,18 @@ img.about {
   white-space: nowrap;
 }
 
+.card-body {
+  p {
+    text-align: left;
+  }
+}
+
+.content {
+  p {
+    text-align: left;
+  }
+}
+
 th {background: #EEE}
 tr:nth-child(even) {background: #EEE}
 tr:nth-child(odd) {background: #FFF}
