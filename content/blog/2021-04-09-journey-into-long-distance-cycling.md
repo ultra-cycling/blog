@@ -6,6 +6,9 @@ headerimage: "/images/2021-04-09-journey-long-distance-cycling/header.jpg"
 featured: true
 categories: ["Brevet"]
 draft: false
+description: |
+    Every now and then, people ask me the question how I started with cycling ultra distances. In this article I want to share
+    my personal journey into ultra cycling and how it all happened...
 ---
 
 The first long trip I ever made on a bicycle was back when I was around 10 years old. My grandparents used to live in a town that was about 40km away from where my family used to live and we basically went there every weekend. At some point I asked my mum whether it is possible to go there by bike. One sunny day, we made it happen. It came with a surprise on how quickly got there. I thought about a day long trip —but instead, it only took us about 3 hours…
