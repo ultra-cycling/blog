@@ -8,4 +8,11 @@ draft: false
 
 ## Michael Lihs
 
-Father of 👶 and 👧,  hobby-cyclist who stumbled into ultra-cycling 🚴🏼‍♂️💨. Writing on this blog about his experience in riding long distances.
+I am a father of 👶 & 👧 and a hobby-cyclist who stumbled into ultra-cycling 🚴🏼‍♂️💨. On this blog I am writing about my experience in riding long distances and try to share some of the impressions along the routes.
+
+You will also find me on
+
+* [komoot](https://www.komoot.de/user/373804781086)
+* [strava](https://www.strava.com/athletes/16295226)
+* [instagram](https://www.instagram.com/michaellihs/)
+* [twitter](https://twitter.com/kaktusmimi)
