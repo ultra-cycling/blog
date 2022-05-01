@@ -1,3 +1,7 @@
+h2 {
+  padding-bottom: 1rem;
+}
+
 figcaption, .copyright {
   font-size: 0.9rem;text-align: center;color: gray;
 }
@@ -78,4 +82,8 @@ h1.hero {
 
 .gallery {
   margin-bottom: 1.5rem !important;
+}
+
+p.figcaption {
+  text-align: center;
 }
