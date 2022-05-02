@@ -6,34 +6,19 @@
 <!-- image processing for multiple device -->
 
 {{ if fileExists (printf "%s/%s" `assets/` $imagePath) }}
-{{/* if fileExists (add `assets/` $imagePath)  */}}
 {{ $image:= resources.Get $imagePath }}
 {{ $imageFallback:= $image.Resize "1110x" }}
-{{ $imageXXL:= $image.Resize "2400x webp" }}
-{{ $imageXL:= $image.Resize "1110x webp" }}
-{{ $imageLG:= $image.Resize "650x webp" }}
-{{ $imageMD:= $image.Resize "600x webp" }}
-{{ $imageSM:= $image.Resize "545x webp" }}
+{{ $imageXXL:= $image.Resize "2400x" }}
+{{ $imageXL:= $image.Resize "1110x" }}
+{{ $imageLG:= $image.Resize "650x" }}
+{{ $imageMD:= $image.Resize "600x" }}
+{{ $imageSM:= $image.Resize "545x" }}
 <section class="bgimage" style="background: url('{{ $imageXXL.RelPermalink }}');">
   <div class="container-fluid" style="position: absolute; bottom: 0">
     <div class="row no-gutters justify-content-center">
       <div class="col-lg-8">
         <div class="text-center mb-5">
-<!--          <div class="card-meta-tag {{if .Params.featured}}featured{{end}}">-->
-<!--            {{ range .Params.categories }}-->
-<!--            <a href="{{`categories` | relURL}}/{{. | urlize | lower}}/">{{ . }}</a>-->
-<!--            {{ end }}-->
-<!--          </div>-->
-<!--          <div style="background-color: rgba(255, 255, 255, 0.5); padding: 30px">-->
             <h1 class="hero">{{.Title}}</h1>
-<!--            <div class="card-meta">-->
-<!--              <em>{{.PublishDate.Format "Jan 2, 2006"}}</em>-->
-<!--              <em>-->
-<!--                <a href="{{`about/` | relLangURL }}" class="card-meta-author text-primary">-->
-<!--                  {{ site.Params.author }}-->
-<!--                </a>-->
-<!--              </em>-->
-<!--            </div>-->
           </div>
         </div>
       </div>
