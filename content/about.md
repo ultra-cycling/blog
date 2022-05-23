@@ -27,13 +27,14 @@ I am a father of 👶 & 👧 and a hobby-cyclist who stumbled into ultra-cycling
 * [Paris-Brest-Paris 2019 - Audax Club Parisienne](https://www.audax-suisse.ch/2019/09/04/paris-brest-paris-2019-vier-n%C3%A4chte-und-drei-schl%C3%A4uche-bis-paris-teilnehmerbericht/)
 * [1001 Miglia Italia 2021 (DNF)](/blog/2021-11-17-1001-miglia/)
 * [BRM 200 Lake of Constance - Audax Suisse - 2022](/blog/2022-04-22-brm-200-bodensee/)
+* [BRM 400 Stuttgart - Audax Suisse - 2022](/blog/2022-05-20-brm-400-buch-stuttgart-buch/)
 
 ### List of DIY brevets (mostly solo)
 
 Routes longer than 300 km - mostly Strava links...
 
 * [Corsica - 300km / 6000m - 2018](https://www.strava.com/activities/1630612113)
-* [Alb Extream - 300km / 6000m - 2018](https://www.strava.com/activities/1630612113)
+* [Alb Extrem - 300km / 6000m - 2018](https://www.strava.com/activities/1630612113)
 * [Stuttgart - Lago di Garda - 600km / 6000m - 2018](https://www.strava.com/activities/1717762634)
 * [Stuttgart - Basel - 300km - 2018](https://www.strava.com/activities/1893923167)
 * [Stuttgart - Rhine - Vosges - 400km - 2019](https://www.strava.com/activities/2591416480)
