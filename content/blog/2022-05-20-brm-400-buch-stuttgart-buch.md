@@ -53,7 +53,7 @@ The tire setup was also a bit challenging. Since my frame only allows for 30mm t
 {{< figure src="/images/2022-05-20-brm-400-stuttgart/DSC02944.jpg" caption="Thomas, giving some last instructions" >}}
 {{< /gallery >}}
 
-## Some introducing words and off into the night
+## Some last instructions and off into the night
 
 During the last 5 minutes before the start - which was planned for 20:00 - Thomas shared some beta on the route and made us aware of dangerous sections and things to watch out for. Afterwards all the ~50 participants headed out into a perfectly warm night, actually it was the first night where the forecast promised mild temperatures throughout the night.
 
