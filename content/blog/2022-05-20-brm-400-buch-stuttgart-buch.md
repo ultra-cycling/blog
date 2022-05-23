@@ -7,8 +7,7 @@ featured: true
 categories: ["Brevet", "Audax Suisse"]
 draft: false
 description: |
-    The 200km ride around Lake of Constance is kind of the spring classic from Audax Suisse. This year was special for me since
-    it was the first Audax Suisse brevet after 2 years of Covid. 
+    50 riders, 400km, 4700m vertical climb, 18% of Champagne Gravel, thunderstorms at night and a pizza in Tübingen. Read about another epic adventure with Audax Suisse!
 ---
 
 ## Prologue
@@ -65,6 +64,8 @@ At the beginning, the tempo was quite high. I settled for a moderate speed behin
 {{< figure src="/images/2022-05-20-brm-400-stuttgart/DSC03080.jpg" caption="Into the night along the Danube" >}}
 {{< figure src="/images/2022-05-20-brm-400-stuttgart/DSC03097.jpg" caption="Short stop in Sigmaringen" >}}
 {{< /gallery >}}
+
+And then there was the weather lightening on the horizon. Close enough to create an impressive atmosphere and fortunately far enough away to not be really dangerous. What a perfect scenery for a night ride!
 
 Our first stop happened to be in Sigmaringen where we enjoyed some late night food before climbing up the Swabian Alb. It started to rain 3 times, the first time it was only some drops of rain and we didn't need to wear our rain clothes. The second and third time was more severe and we immediately put on the rain jacket and a warmer layer. It was just warm enough to feel comfortable without long bibs or leg warmers.
 
