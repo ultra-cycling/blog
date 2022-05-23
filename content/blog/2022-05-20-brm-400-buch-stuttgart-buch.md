@@ -38,6 +38,9 @@ Since all this was fitting in my frame pack and top tube pack, I left the saddle
 
 The tire setup was also a bit challenging. Since my frame only allows for 30mm tires, I chose some left-over G-One Speed that I still had from last year (looking at current prices for all bike-related spare parts, you don't wanna buy new ones unless you realy realy have to do so... don't you). I kept the 28mm Conti GP 5000 at the front and mounted both of them tubeless. It turned out to be a good setup, although wider tires would have added significantly more comfort on the more than 60km of gravel passages along the route. 
 
+> *"So if your tubeless setup survived those "killer descents", I'll seriously consider tubeless next time I change tires."*<br>
+> <small>another participant who had suffered a flat tire</small>
+
 {{< gallery >}}
 {{< figure src="/images/2022-05-20-brm-400-stuttgart/DSC02897.jpg" caption="Some impressions from the start in Buch" >}}
 {{< figure src="/images/2022-05-20-brm-400-stuttgart/DSC02901.jpg" caption="Last preparations" >}}
