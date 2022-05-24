@@ -1,5 +1,7 @@
 # ultra-cycling.de blog
 
+[![github pages](https://github.com/ultra-cycling/blog/actions/workflows/gh-pages.yml/badge.svg)](https://github.com/ultra-cycling/blog/actions/workflows/gh-pages.yml)
+
 This repository feeds the blog that you can find under [https://ultra-cycling.de](https://ultra-cycling.de). It's driven by the [HUGO Static Site Generator](https://gohugo.io/).
 
 ## Run the blog locally
