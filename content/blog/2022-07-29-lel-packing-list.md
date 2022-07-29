@@ -28,6 +28,7 @@ This is my packing list for London-Edinburgh-London 2022. I am planning to pack 
 * Helmet
 * Buff
 * Sun glasses (with additional transparent glasses for the night)
+* Decided agains gloves, since I never have issues with cold hands
 
 ### Bags
 
@@ -58,6 +59,7 @@ This is my packing list for London-Edinburgh-London 2022. I am planning to pack 
 * Duct tape
 * Chain lube
 * Chain link
+* Rubber gloves for bike repairs (won't have that, but got it recommended)
 
 ### Electronics
 
