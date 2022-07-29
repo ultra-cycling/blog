@@ -80,6 +80,7 @@ This is my packing list for London-Edinburgh-London 2022. I am planning to pack 
 * Bepanthen creme
 * Wet wipes
 * Tissues
+* Ear plugs
 
 ### Sleeping
 
