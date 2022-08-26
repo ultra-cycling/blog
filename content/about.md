@@ -28,6 +28,8 @@ I am a father of 👶 & 👧 and a hobby-cyclist who stumbled into ultra-cycling
 * [1001 Miglia Italia 2021 (DNF)](/blog/2021-11-17-1001-miglia/)
 * [BRM 200 Lake of Constance - Audax Suisse - 2022](/blog/2022-04-22-brm-200-bodensee/)
 * [BRM 400 Stuttgart - Audax Suisse - 2022](/blog/2022-05-20-brm-400-buch-stuttgart-buch/)
+* [BRM 600 Talwind+ - Audax Suisse - 2022](https://www.strava.com/activities/7403625460)
+* [London-Edinburgh-London 2022](/blog/2022-08-16-lel-2022/)
 
 ### List of DIY brevets (mostly solo)
 
