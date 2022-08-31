@@ -12,6 +12,15 @@ description: |
 
 ## How is longdistance riding different from an average cycling trip
 
+Compared to shorter bike rides there are a few things you might wanna consider when riding long distances:
+
+* packing: how do you transport your stuff on your bikes, bag setups...
+* eating: how do you make sure to provide the required energy to your body...
+* sleeping: at some point you have to sleep
+* visibility and lighting: you will ride through the night, light setup, visibility...
+* navigating: basically the same as during short rides but you have to manage much longer tracks with checkpoints etc.
+
+The following sections provide some details for each of these topics.
 
 {{< figure link="/images/2022-05-20-brm-400-stuttgart/DSC02911.jpg" thumb="-small" caption="The gang today" >}}
 
