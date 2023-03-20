@@ -29,32 +29,57 @@ The following sections provide some details for each of these topics.
 ## Proper bike setup
 
 * handlebars / aerobars / bar tape
+  * thicker bar tape for shock absorption
+  * additional gel inserts under the bar tape for shock absorption
+    * make sure to add them in the right place (eg. close to the lever in the top position)
+  * check the rules of the race whether aerobars are allowed - sometimes there are limitations
 * saddle
 * gears
+  * provide easier gears than you usually ride (you will need them most likely)
 * pedals
+  * don't start experimenting with pedals during a brevet - use what you are used to / know best
+  * make sure to have them not too tight, your bones and muscles might need some additional movement for relaxiation
 * tires
+  * high pressure is not always better
+  * check the road conditions and use wider tires for comfort and shock absorption
 * visibility of your bike
+  * add reflective stickers all over your bike (doesn't look good, but allows you to be seen during the night)
 
 ## Riding at night
 
 * visibility
+  * reflective stickers
 * animals
+  * drive slowly in forests
+  * drive more in the middle of the road to be able to "escape" animals jumping into the road from the side
 
 ## Lighting
 
 * battery versus dynamo
 * charging on the road
+  * put a sock over your bike computer when you charge your batteries at a check point (reminds you to pick them up again)
 * backups
+  * have 2 rear lights as a default
 * helmet vs handlebar - shermer's neck
 
 ## Electronics
 
 * keep your computer dry
+  * take a small plastic bag with you that allows you to wrap your computer
+  * the computer might not be as water proof as the manual says
 * watch for charging sockets not to get wet
+  * you can empty a powerbank in no time if water gets into the socket
 
 ## Navigation
 
 * smartphone vs. cycling computer
+  * battery consumption of smart phones!
+  * operability of smarth phones if the display gets wet
+  * charging in rainy conditions
+* download offline content on smartphone
+  * be prepared for not having mobile signal all along the route
+* download maps on cycling computer
+  * make sure to have the required maps downloaded on your cycling computer
 
 ## Packing your bike
 
@@ -82,7 +107,7 @@ The following sections provide some details for each of these topics.
 ## Where to sleep
 
 * "dormitories" vs outside
-* bank counters
+* bank counters ("EC hotel")
 * bus stops
 
 ## Eating
@@ -95,11 +120,12 @@ The following sections provide some details for each of these topics.
 ## Shopping
 
 * check opening hours of gas stations and shops along the route
+* check your route before-hand and figure out potential bottlenecks of food supply
 * eg. Swizzerland all shops will close 20:00
 
 ## Overcoming pain
 
-* knee paind
+* knee pain
 * archilles heel
 * numb hands
 * numb feet (put of shoes at controls, walk barefoot)
