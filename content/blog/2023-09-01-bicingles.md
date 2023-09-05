@@ -5,7 +5,7 @@ image: "/images/2023-09-01-bicingles/preview.png"
 headerimage: "/images/2023-09-01-bicingles/header-2.jpg"
 featured: false
 categories: ["Solo rides"]
-draft: true
+draft: false
 description: |
     The Challenge of the "Cinglés du Mont Ventoux" is riding all 3 paved roads up to Mont-Ventoux on the same day - the "Bicinglés du Mont Ventoux" is doing it twice.
 ---
