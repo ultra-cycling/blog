@@ -3,7 +3,7 @@ title: "Bicinglés du Mont Ventoux"
 date: 2023-09-01T20:00:00+06:00
 image: "/images/2023-09-01-bicingles/preview.png"
 headerimage: "/images/2023-09-01-bicingles/header-2.jpg"
-featured: false
+featured: true
 categories: ["Solo rides"]
 draft: false
 description: |
