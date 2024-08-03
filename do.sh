@@ -21,6 +21,11 @@ function task_thumbs {
   done
 }
 
+## server: start the HUGO server for local preview
+function task_server {
+  hugo server
+}
+
 
 function task_usage {
   echo "Usage: $0"
