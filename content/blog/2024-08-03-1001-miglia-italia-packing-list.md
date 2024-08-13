@@ -10,7 +10,7 @@ description: |
     Here comes my packing list for 1001 Miglia Italia - with bag drops...
 ---
 
-This is my packing list for 1001 Miglia Italia 2024. I am planning to pack everything into 2 bags (seat pack and frame pack). As always I will take a sleeping bag with me that allows me to sleep wherever and whenever I want. Besides I will prepare for the 2 bag drops that are offered by the organizers
+This is my packing list for 1001 Miglia Italia 2024. I am planning to pack everything into 2 bags (seat pack and frame pack). Additionally, I'll carry 2 food pouches on my handlebar. I will carry a sleeping bag with me that allows me to sleep wherever and whenever I want. Besides I will prepare for the 2 bag drops that are offered by the organizers after 600 and 1000km.
 
 ### Clothing
 
@@ -34,7 +34,7 @@ This is my packing list for 1001 Miglia Italia 2024. I am planning to pack every
 
 * Ortlieb seat pack 16.5l
 * Apidura frame pack
-* Small handlebar bag (food pouch) for quickly accessing my camera & food (undecided)
+* 2 Apidura food pouches for quickly accessing my camera & drinking bottle
 
 ### Lighting
 
@@ -88,7 +88,7 @@ This is my packing list for 1001 Miglia Italia 2024. I am planning to pack every
 
 ### Sleeping
 
-* Sleeping bag
+* Sleeping bag (micro fibre, ultralight)
 
 ### Money & IDs
 
@@ -99,9 +99,10 @@ This is my packing list for 1001 Miglia Italia 2024. I am planning to pack every
 
 ### Misc
 
-* 2 bottles (800ml each)
+* 2 bottles for drinking (800ml each, 1 on the frame, 1 in the food pouch)
+* 1 bottle for drinking powder (on the frame)
 * 4 plastic bags (wet feet, protect cycling computer)
-* Timetable
+* Print out of the timetable
 * 2 bags for the bag drops
 * First aid kit (rescue blanket!!!)
 * Pen for the brevet card
@@ -125,6 +126,7 @@ There will be 2 bag drops along the route:
 * Rain pants
 * Overshoes
 * Spare tube
+* Iso drink (Isostar drink powder)
 
 ### MATASSINO - REGGELLO
 
@@ -132,5 +134,18 @@ There will be 2 bag drops along the route:
 * 1 Cycling bib
 * Some sweets
 * Salted Peanuts
+* Shower soap
+* Towel
 * Powerbank
 * Spare tube
+* Iso drink (Isostar drink powder)
+
+## Bike setup
+
+* Simplon Pavo Granfondo Disc
+* 34 - 50 crank
+* 11 - 34 cassette
+* Continental Grand Prix 5000 TR 32 mm (tubeless)
+* Shimano XTR SPD pedals
+* Zipp Vuka Clip Aero Bars with 110 Extension and 50 mm riser
+* SQLab 611 saddle

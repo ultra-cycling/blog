@@ -93,6 +93,9 @@ The following sections provide some details for each of these topics.
 * special requirements for clothing for longdistance rides (big pockets)
 * layered clothing
 * plastic bags for warm feet
+* watch out for seems
+  * even the smallest seem in the wrong place can cause skin irritations in the long term
+  * test especially your bibs before and try them out during a longer ride
 
 ## Sleeping
 
